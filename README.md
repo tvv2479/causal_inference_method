@@ -7,7 +7,7 @@
 
 * CUPED ✅ (Добавлено)
 
-* SPRT (Sequential Probability Ratio Test) ⏳ (В планах)
+* SPRT (Sequential Probability Ratio Test) ✅ (Добавлено)
 
 * Diff-in-Diff (Difference-in-Differences) ⏳ (В планах)
 
